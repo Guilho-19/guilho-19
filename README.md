@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Guilho 💀🖤
+## Welcome to my profile! 💀🖤
 
  <div>
    <a href="https://github.com/guilho-19">
