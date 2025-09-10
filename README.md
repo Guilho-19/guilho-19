@@ -1,5 +1,6 @@
 # Guilho 
-_My name is Guilherme, I'm 22 years old and have a passion for technology. Always trying to improve and loving to learning new things every day!_
+_My name is Guilherme, I'm 22 years old and have a passion for technology. 
+Always trying to improve and loving to learning new things every day!_
 
 <div>
    <a href="https://github.com/guilho-19">
