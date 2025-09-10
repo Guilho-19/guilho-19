@@ -3,7 +3,6 @@ _My name is Guilherme, I'm 22 years old and have a passion for technology. Alway
 
 <div>
    <a href="https://github.com/guilho-19">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilho-19&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilho-19&layout=compact&langs_count=6&theme=jolly"/>
 
 </div>
