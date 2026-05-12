@@ -2,12 +2,6 @@
 _My name is Guilherme, I'm 23 years old and have a passion for technology. <br>
 Always trying to improve and loving to learning new things every day!_
 
-<div>
-   <a href="https://github.com/guilho-19">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilho-19&layout=compact&langs_count=6&theme=jolly"/>
-
-</div>
-
 # 🛠️ My Technologies and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
