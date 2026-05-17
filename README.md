@@ -23,6 +23,6 @@ Always trying to improve and loving to learning new things every day!_
 
 **Languages & Frameworks** <br>
 ![Delphi](https://img.shields.io/badge/Delphi-FFD500?style=for-the-badge&logo=delphi&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
