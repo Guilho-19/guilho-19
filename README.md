@@ -1,4 +1,4 @@
-# Hi, I'm Guilho! 👋
+# Hi, I'm Gui! 👋
 _My name is Guilherme, I'm 23 years old and have a passion for technology. <br>
 Always trying to improve and loving to learn new things every day!_
 
