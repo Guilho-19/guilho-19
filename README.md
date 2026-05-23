@@ -2,8 +2,6 @@
 _My name is Guilherme, I'm 23 years old and have a passion for technology. <br>
 Always trying to improve and loving to learn new things every day!_
 
-Currently working as an **N2 Support Analyst**, solving complex infrastructure and database issues, while actively transitioning my career to **Software Development**.
-
 ### 🎯 Current Focus & Projects
 * **Deepening my skills in:** Delphi and T-SQL (SQL Server).
 * **Building:** A ticket management workflow tool using Node.js and SQL Server, with plans to migrate the architecture to Delphi.
