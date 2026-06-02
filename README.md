@@ -4,7 +4,6 @@ Always trying to improve and loving to learn new things every day!_
 
 ### 🎯 Current Focus & Projects
 * **Deepening my skills in:** Delphi and T-SQL (SQL Server).
-* **Building:** A ticket management workflow tool using Node.js and SQL Server, with plans to migrate the architecture to Delphi.
 
 ### 🛠️ My Technologies and Tools
 
