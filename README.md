@@ -56,8 +56,7 @@ Software developer and N2 Support Analyst at **Microdata Sistemas**, with a soli
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
 ### 📊 GitHub Stats
-![Gui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilho-19&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilho-19&layout=compact&theme=default&hide_border=true)
+![GitHub metrics](./github-metrics.svg)
  
 ### 🌐 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-palaro-a4b0551a4/)
