@@ -1,6 +1,8 @@
 # Hi, I'm Guilherme Palaro! 👋
 ### Delphi Developer | N2 Support Analyst | SQL Server
  
+🟢 **Open to opportunities in Delphi / SQL Server development**
+ 
 _I turn real support problems into working tools: from T-SQL fixes in production to a ticket management system built in Delphi._
  
 ## 💼 About Me
@@ -37,12 +39,25 @@ Software developer and N2 Support Analyst at **Microdata Sistemas**, with a soli
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
+**Reporting & Integrations** <br>
+![FastReport](https://img.shields.io/badge/FastReport-E8590C?style=for-the-badge)
+![FortesReport](https://img.shields.io/badge/FortesReport-1F6FEB?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+ 
 **Tools & Basics** <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-basics-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-basics-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 
+### 📊 GitHub Stats
+![Gui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilho-19&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilho-19&layout=compact&theme=default&hide_border=true)
  
 ### 🌐 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-palaro-a4b0551a4/)
