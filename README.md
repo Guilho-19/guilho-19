@@ -1,8 +1,6 @@
 # Hi, I'm Guilherme Palaro! 👋
 ### Delphi Developer | N2 Support Analyst | SQL Server
  
-🟢 **Open to opportunities in Delphi / SQL Server development**
- 
 _I turn real support problems into working tools: from T-SQL fixes in production to a ticket management system built in Delphi._
  
 ## 💼 About Me
